@@ -21,35 +21,21 @@ Estrutura de Classes:
   - Métodos: PegarCorrida(), DevolverCorrida()
 
 Motorista
-
-NomeMotorista (string)
-
-Carro (string)
-
-Saldo (double)
-
-Métodos: AceitarCorrida(), FinalizarCorrida()
+- NomeMotorista (string)
+- Carro (string)
+- Saldo (double)
+- Métodos: AceitarCorrida(), FinalizarCorrida()
 
 Corrida
-
-Passageiro (Passageiro)
-
-Motorista (Motorista)
-
-DistanciaKm (double)
-
-Preco (double)
-
-Status (string)
-
-Métodos: CalcularCorrida(), FinalizarCorrida(), CancelarCorrida()
+- Passageiro (Passageiro)
+- Motorista (Motorista)
+- DistanciaKm (double)
+- Preco (double)
+- Status (string)
+- Métodos: CalcularCorrida(), FinalizarCorrida(), CancelarCorrida()
 
 AppCorrida
-
-List<Passageiro>
-
-List<Motorista>
-
-List<Corrida>
-
-Métodos: CadastrarPassageiro(), CadastrarMotorista(), SolicitarCorrida(), ListarCorridas()
+- List<Passageiro>
+- List<Motorista>
+- List<Corrida>
+- Métodos: CadastrarPassageiro(), CadastrarMotorista(), SolicitarCorrida(), ListarCorridas()
