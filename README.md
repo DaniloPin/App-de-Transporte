@@ -35,7 +35,7 @@ Estrutura de Classes:
   - Métodos: CalcularCorrida(), FinalizarCorrida(), CancelarCorrida()
 
 - AppCorrida
-  - List<Passageiro>
-  - List<Motorista>
-  - List<Corrida>
+  - List <Passageiro>
+  - List <Motorista>
+  - List <Corrida>
   - Métodos: CadastrarPassageiro(), CadastrarMotorista(), SolicitarCorrida(), ListarCorridas()
